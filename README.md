@@ -1,3 +1,8 @@
+## Overview
+
+My take on the Udacity Object Oriented Javascript Course. I took the free version so the project has not been reviewed. But the game works so I guess I did some things right.
+
+
 frontend-nanodegree-arcade-game
 ===============================
 
